@@ -1,0 +1,22 @@
+# Virtual environment
+.venv/
+venv/
+ENV/
+env/
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.swp
+*.swo
+
+# VSCode
+.vscode/
+
+# Mac/Windows/Linux συστήματα
+.DS_Store
+Thumbs.db
+
+# Κρυφά config
+*.env
+config_data/google_creds.json
