@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "algebraic-link-440209-h7",
+  "private_key_id": "d564e541a9eab30da3e52e3f89451796771f1caa",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvgIBADANBgkqhkiG9w0BAQEFAASCBKgwggSkAgEAAoIBAQCu4WOjIhCHAsvG\nwNjLk8RitJYlhaVwmJ1ZcCiOGxtZWOgD7oScnDatfXOY8YjGokgSAiD1ROwjRXKQ\nrPv1etgsvom6tsstaRKA+4yDOzs+VcB5MSgUpI2Lda0qGSrc060TLQQo1XkO3Iz6\n2jbu1OKnhGzbNkdEtUISuKNj/ZDJ1AKB2pHZwEmy+IVTH7MiMEYEKISH/ZAIdd+G\nTV24CG3cgXQZUxYpQlFThNdb08AOX9lrJtlo6Bs+tR7j4cb3zCu8FE7pmU3PtRBv\nq7h0vvBeFdgsN8oYS8vrVjB9fyqUrn3c3l0bcGLmknSvhi8KGktxInplbJvacUpP\ndkkaNgyJAgMBAAECggEABLRrWO2PDoTKnOieBH8PlNy5H94MNP7kF86Cxszvo8wW\npNlvP6PbvDfgauRPmtFtmS9tuc9+f1XsVrxSpHhnNa/0Fl350hlOLkJmNbcbmUoX\nDSOfiYuiQ7bZH2VxL+LxeG84+gzBLp9MGykQ+oSnatyPDag0i2KJeiW1vphJI4bZ\nXW9XKJEpyXuke2l6lh5lhZNPKzOyeWWeILrv61OR0NqjqzRybCvdifUryefK4+Y9\nKUx5d7qOHNCwb20InNI6z0zSDOlVUk3ckn4XzAsRxBvlA+Qw8gDiW4galPkx+oRC\nqhfv+cJ/cNbPYo4pftQ1cAppo8v5gct4KEcbjTm+gQKBgQDZKgPeX//ayAw5OEj9\nLjKaaUBVGc09LV/qJqNJ76wSETQdBHKkrKOWrqwvh6wftqgGKoF26rY0H8CbCse9\nXwnIRR33cypv/OhfIg15VEej3+mG9Id7wl1EO9UD+QNd1/xZBwOhrKoSBc7q35Fb\nVOGkKx599Wq+SzhyCeffb1/WCQKBgQDOJ5Xbb6+4dOyzn0gupuAxcbtf8VIlpk/C\n51K4QJXV+FscxXk+j1zxTMWr8AVRJXFuqXn8lvvk/4M1AfYBRNvHaQEk6yuEDcJY\n3P589fqjh9LSXWRIbUwAoOZXZM8BI/f5smS7S5F9WZqKyzZk40YCVIClx3Qb/cGp\n08rgLA4igQKBgH0to9c+PQxOvgUJtcEDLTYmr2eenNjD3ALrzLokxmoPspt7Yd4c\niZulCinHqecJ8ebD/6adevOmze5RE3vMWaYweSqXHwI4pXWY+m1SsIz81+7r62Di\nU8KuPoawtkkU5CgpS+WY0tvar0BiKLadwgdQt53hpmsUju/lV9xKpdKJAoGBAL9H\na3xXfKuhkZ54Q/lFTO+Tn0++EYJtdcRZ7h6Xjm8iKSfg8kZhrtMVcLO/2K8aFs2e\n4ljDnqUzjwI395Hl2iaD/1PKAG5edd0N7/LyKMRi2fHmRY4OG17Z699a4dclEIjW\nRTCjRTMRWJs/QhEJ74Np9JPdJJZ0NKTmpm6pcdQBAoGBALzj+hcDlxKw1BuQ+sy/\nxx3EVa0GycQBqYD1T8w2iMxhmkFE0KaPs+vgfo7YhxSCgIRzTQQAO1FUOAsRHcXU\nu9aVIIIdHc6YU/CHpgqf4jNl+qflkIxGh+qCED+YC6theMX3JiqBPKRPhthVg657\n6LlN15wpljLxk+D1IEBfEVm4\n-----END PRIVATE KEY-----\n",
+  "client_email": "binancecheck@algebraic-link-440209-h7.iam.gserviceaccount.com",
+  "client_id": "111572274643887740958",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/binancecheck%40algebraic-link-440209-h7.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}
